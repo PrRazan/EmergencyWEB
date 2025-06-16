@@ -356,8 +356,6 @@ transition: var(-transition-1);
 
 
 
-
-
 @media (min-width: 575px) {
         .container {
         max-width: 540px;
